@@ -20,7 +20,7 @@ on:
         default: 'false'
 
 env:
-  CONFIG_FILE: config/x64.config
+  CONFIG_FILE: config/default.config
   REPO_URL: https://github.com/Lienol/openwrt
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
